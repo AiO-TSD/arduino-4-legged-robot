@@ -17,3 +17,8 @@ This repository contains Arduino code this projects.
 4. Connect your Arduino Uno to your computer via USB.
 5. Select your board and port from the Tools menu.
 6. Upload the code to your Arduino.
+
+## Libraries
+
+- Servo by Michael Margolis, Arduino
+- RF24 by TMRh20
