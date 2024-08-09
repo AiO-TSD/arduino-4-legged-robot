@@ -1,6 +1,6 @@
 # 4-legged Robot Project
 
-This repository contains Arduino code examples for various projects, which I can easily go back to for reference.
+This repository contains Arduino code this projects.
 
 ## NOTE
 - [Installation](#installation)
