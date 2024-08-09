@@ -3,9 +3,23 @@
 This repository contains Arduino code this projects.
 
 ## NOTE
+- [Pre-requisites](#pre-requisites)
 - [Installation](#installation)
 - [Todos](#todos)
 - [Libraries](#libraries)
+
+## Pre-requisites
+- NRF24L01+PA+LNA Wireless Transceiver RF Transceiver Module (2x pieces)
+- NRF24L01 Wireless Module Breakout Adapter (2x pieces)
+- SG90 Servo (3-4x pieces) (12x complete)
+- Breadboard
+- Arduino UNO or Arduino Nano (2x pieces)
+- Dupont Line Wires (all types, better prepared than sorry)
+- 3.7V Batteries (3x pieces) and Battery Holder for series connection -> 11.1V
+- 12V to 5V Buck Converter
+- KY-023 XY Joystick Module
+- OPTIONALS:
+  - 12V DC Male & Female Power Balun Plug Connector (easier connection)
 
 ## Todos
 - Add instructions to source codes (PINOUT, VOLTAGE, etc...)
