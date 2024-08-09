@@ -5,6 +5,7 @@ This repository contains Arduino code this projects.
 ## NOTE
 - [Installation](#installation)
 - [Todos](#todos)
+- [Libraries](#libraries)
 
 ## Todos
 - Add instructions to source codes (PINOUT, VOLTAGE, etc...)
@@ -22,3 +23,6 @@ This repository contains Arduino code this projects.
 
 - Servo by Michael Margolis, Arduino
 - RF24 by TMRh20
+
+In Arduino IDE:
+ - Tools -> Manage Libraries -> Search for Libraries -> `Install`
